@@ -12,5 +12,8 @@ password=mac_meizu.com
 
 3、creat interface folder
 
+4、creat report save path
 
-4、
+5、run all interface test case file
+
+6、use HTMLTestRunner to creat test report in html form
